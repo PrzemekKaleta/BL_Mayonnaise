@@ -1,3 +1,3 @@
 This is file made by REMOTE.
 But this line is written LOCAL.
-Again write some text on REMOTE stage.
+Again write some text on REMOTE stage and change it by local.
