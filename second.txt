@@ -1,2 +1,2 @@
-This is file made by remote.
+This is file made by REMOTE.
 But this line is written LOCAL.
